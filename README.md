@@ -1,3 +1,10 @@
+# Calculator React Studies
+
+> This project was created for my pessoal React studies.
+>
+> > *- Henrique Artur*
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
